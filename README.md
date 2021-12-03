@@ -21,10 +21,9 @@
   - [x] Un milieu qui évolue tou le temps
 
 
+#site loom: 
 
 <p>
-
-site loom: 
  https://www.loom.com/share/7eef50285a1e4157b334fb1a0df0d168
 </p>
    
