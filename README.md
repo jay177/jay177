@@ -21,7 +21,7 @@
   - [x] Un milieu qui évolue tou le temps
 
 
-<video width="80%" src="https://www.loom.com/share/7eef50285a1e4157b334fb1a0df0d168" />
+
 <p>
 
  
