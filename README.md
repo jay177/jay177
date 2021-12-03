@@ -10,6 +10,7 @@
 
 <img align="right" width="55%" alt="GIF" src="https://static.hitek.fr/img/bas/2015/05/fb_clrt-alt-suppr.jpg"></img>
 
+
 *Sorry, i can do nothing for you.*
 
 ** Le web c'est **
@@ -18,3 +19,5 @@
   - [x] l’agent 
   - [x] Un milieu qui évolue tou le temps
 
+
+<video width="80%" src="https://www.loom.com/share/7eef50285a1e4157b334fb1a0df0d168" />
