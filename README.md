@@ -7,6 +7,7 @@
   <img align="center" width="100%" src="https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif" />
 </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jay177)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img align="right" width="55%" alt="GIF" src="https://static.hitek.fr/img/bas/2015/05/fb_clrt-alt-suppr.jpg"></img>
