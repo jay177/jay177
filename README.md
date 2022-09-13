@@ -2,10 +2,7 @@
 
  Bienvenue sur mon profil
 
-<p align="center">
-  
-  <img align="center" width="100%" src="https://c.tenor.com/UNTqMDwqh1gAAAAM/hello-hi.gif" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay177&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jay177&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
