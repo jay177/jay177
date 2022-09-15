@@ -12,11 +12,11 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jay177&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img align="center" width="55%" alt="GIF" src="https://static.hitek.fr/img/bas/2015/05/fb_clrt-alt-suppr.jpg"></img>
+# je vous ai mit quelques information relative a mon compte github ci-desus elle vont permettront de voir si je suis actif a un moment T maintenant je vais vous parler un peu plus de moi de ce que j'aime surtout 
+
+<h3 align="left">je vais commencer par la musique que j'écoute vous aller voir les morceaux que j'ai récemment écouté ça vous inspirera </h3>  
 
 
-
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jarrel2001)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jarrel2001)
 
 
